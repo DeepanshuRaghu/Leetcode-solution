@@ -20,6 +20,7 @@ Deepanshu Raghu
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0020-valid-parentheses) |
@@ -53,6 +54,7 @@ Deepanshu Raghu
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0027-remove-element) |
 ## Binary Search
@@ -70,6 +72,7 @@ Deepanshu Raghu
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
