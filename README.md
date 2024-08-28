@@ -10,6 +10,7 @@ Deepanshu Raghu
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0067-add-binary) |
@@ -33,10 +34,12 @@ Deepanshu Raghu
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
 ## Array
 |  |
