@@ -52,6 +52,7 @@ Deepanshu Raghu
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0035-search-insert-position) |
@@ -67,6 +68,7 @@ Deepanshu Raghu
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0035-search-insert-position) |
 ## Bit Manipulation
 |  |
@@ -89,4 +91,8 @@ Deepanshu Raghu
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
