@@ -16,6 +16,7 @@ Deepanshu Raghu
 | [0066-plus-one](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/0070-climbing-stairs) |
+| [1965-sum-of-digits-in-base-k](https://github.com/DeepanshuRaghu/Leetcode-solution/tree/master/1965-sum-of-digits-in-base-k) |
 ## String
 |  |
 | ------- |
